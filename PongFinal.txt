@@ -1,0 +1,13 @@
+L'objectif du pong à terme: 
+
+    2. Affichage du score
+    3. Ecran de fin de partie
+    4. IA qui affronte le joueur.
+    5. Site web pour présenter le jeu, le télécharger 
+    6. Physique plus complexe lors des rebonds de balle
+    7. Multijoueur local
+    8. Menu d'accueil
+    11. Mode en ligne
+    12. Changement de l'apparence du jeu
+    15. Ecran de choix de raquette
+    19. Menu pause
